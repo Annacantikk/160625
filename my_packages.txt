@@ -64,6 +64,7 @@ jieba                                 0.42.1
 jupyter-console                       6.1.0
 jupyter_kernel_gateway                2.5.2
 jupytext                              1.17.2
+joblib
 kaggle                                1.7.4.5
 keras-nlp                             0.18.1
 keyrings.google-artifactregistry-auth 1.1.2
